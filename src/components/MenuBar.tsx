@@ -18,7 +18,7 @@ export function MenuBar() {
 
       {/* WhatsApp Button */}
       <a
-        href="https://wa.me/919906686458?text=Hi,%20I%20need%20a%20book%20from%20the%20Digital%20Library"
+        href="https://wa.me/919906686458?text=Hi,%20I%20TAB"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 z-50 group"
