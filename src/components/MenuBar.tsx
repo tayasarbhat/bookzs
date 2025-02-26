@@ -11,7 +11,7 @@ export function MenuBar() {
       <div className="fixed top-0 left-0 w-full z-40 overflow-hidden h-8">
         <div className="animate-marquee whitespace-nowrap">
           <span className={`${theme.textPrimary} text-sm font-medium px-4`}>
-            Need a book? Drop a message on WhatsApp +919906686458 📚
+           
           </span>
         </div>
       </div>
